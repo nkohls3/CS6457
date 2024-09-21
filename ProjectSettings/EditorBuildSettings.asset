@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: d2ddcb125d3426340927e19aab7e34ea
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Tractor.unity
+    guid: 8b76289c8dd0a854bb83d94b031185f4
+  - enabled: 1
+    path: Assets/Scenes/SportsCar.unity
+    guid: 6b6ef7458110bae42b6f1397d057595f
+  - enabled: 1
+    path: Assets/Scenes/Forklift.unity
+    guid: c5977283ea0ed8d42be3861eb85a6e1d
+  - enabled: 1
+    path: Assets/Scenes/Boss.unity
+    guid: 068ba4f04cb0444968c66ff7c7888f08
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 6de2290ac1f2bfd488a2bc569614b2d7
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
